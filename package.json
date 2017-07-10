@@ -1,0 +1,8 @@
+{
+  "name": "TooltipSearch",
+  "description": "A search component for BitQuery VA-App: zoom and filter. Performs search by various parameters, e.g. package, author name etc. The results are presented in two ways: the list of found items is displayed in the search tooltip, whereas the corresponding nodes in the main visualization are highlighted in red.",
+  "author": "Lukas Borke <lukas@borke.net>, Svetlana Bykovskaya <bykovskaya.svetlana@gmail.com>",
+  "license": "Apache License 2.0",
+  "version": "0.8.0",
+  "main": "TooltipSearch.js"
+}
